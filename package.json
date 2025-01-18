@@ -1,0 +1,13 @@
+{
+  "name": "githubactions-codespace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "build": "echo 'No build script defined'",
+  "test": "echo 'No tests defined'"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
